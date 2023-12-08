@@ -1,0 +1,40 @@
+.dark_back {
+    -fx-background-color: #46476a;
+}
+.gray_back {
+    -fx-background-color: #636566;
+}
+
+.transparent{
+    -fx-background-color: rgba( 0,0,0,0);
+}
+.radius {
+    -fx-background-radius: 100px;
+}
+.light_gray {
+    -fx-background-color: #5b5a5a;
+}
+.incoming_bubble {
+    -fx-background-color: #696565;
+    -fx-background-radius: 20px;
+    -fx-text-fill: white;
+}
+.send {
+    -fx-background-color: #19323b;
+}
+.text_fie{
+    -fx-background-radius: 15px;
+    -fx-background-color: #484854
+}
+.back_call1 {
+    -fx-background-color: #4d4d5b
+;
+}
+.back{
+    -fx-background-color: #2a2828
+;
+}
+.box {
+    -fx-background-radius: 10px
+;
+}
