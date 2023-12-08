@@ -1,4 +1,5 @@
-# BTGUI
+# BTGUI Phan Công Dương, 22028274
+
 <html>
 <head>
    <title>https://github.com/phannduongg12/BTGUI/assets/126835111/1f8ae549-b472-441d-8bac-07c493c77411</title>
